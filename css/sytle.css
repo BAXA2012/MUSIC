@@ -1,0 +1,87 @@
+.headr {
+    background-image: url("../img/headr.jpg");
+    height: 1024px;
+}
+
+.headr-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: Istok Web;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25.91px;
+    text-align: left;
+    background: #FFFFFF;
+    background-size: cover;
+    color: transparent;
+    background-clip: text;
+}
+
+.imgmenu {
+    font-family: Libre Barcode 128 Text;
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 80px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.player {
+    background: #FFFFFF;
+    background-size: cover;
+    color: transparent;
+    background-clip: text;
+    font-family: "Kenia", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Kenia;
+    font-size: 150px;
+    font-weight: 400;
+    line-height: 150px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-left: 115px;
+    margin-top: 191px;
+
+
+}
+
+.iphone {
+    width: 500px;
+    height: 888.01px;
+    top: 127px;
+    left: 865px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.company {
+    background: #FFFFFF;
+    background-size: cover;
+    color: transparent;
+    background-clip: text;
+    font-family: Istok Web;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28.79px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+
+}
+
+.headr2 {
+    background-image: url("../img/Desktop\ -\ 2.svg");
+    width: 1440px;
+    height: 1024px;
+    top: 1024px;
+    gap: 0px;
+    opacity: 0px;
+
+}
