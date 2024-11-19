@@ -197,8 +197,9 @@
     height: 1024px;
     background-image: url("../img/Device\ -\ Macbook\ Pro.svg");
     background-repeat: no-repeat;
-
     background-position: center right;
+    display: flex;
+    flex-direction: column;
 
 
 }
@@ -277,18 +278,108 @@
 }
 
 
+.mp {
+    font-family: Montserrat;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 25.6px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+
+
+}
+
+
+.text-info {
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.94px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
 
 
 
 
+.footer {
+    background: linear-gradient(180deg, #D53005 0%, #000000 4.01%);
+    height: 536px;
 
 
 
+}
+
+
+.mpend {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24.38px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+
+}
+
+
+.value {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24.38px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+}
+
+.zapic {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24.38px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+
+}
+
+.footer-row-1 {
+    display: flex;
+
+}
+
+.footer-row-1 p {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: white;
+    margin-right: 300px;
+    justify-content: first baseline;
+    
 
 
 
+}
 
 
+.music-player-2 {
+    font-family: Kenia;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 50px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
 
-
-
+}
