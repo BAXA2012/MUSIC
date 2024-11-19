@@ -379,7 +379,7 @@
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
     color: white;
-    margin-top: 344px;
+    margin-top: 76px;
 
 }
 
@@ -387,6 +387,21 @@
     display: flex;
 }
 
+.end-row {
+    margin-left: 110px;
+}
+
+.end-row-text {
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18.29px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    justify-content: space-evenly;
+    color: white;
+
+}
 
 .good-info {
     font-family: Montserrat;
@@ -396,12 +411,12 @@
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
     justify-content: space-evenly;
-    margin-left: 106px;
-    
+    margin-left: 300px;
+    margin-top: 176px;
     color: white;
     display: flex;
-
-    
+    justify-content: space-between;
+    width: 900px;
     
 
 }
