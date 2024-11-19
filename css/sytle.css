@@ -355,19 +355,17 @@
 
 }
 
-.footer-row-1 p {
+.footer-row-1 {
     font-family: Montserrat;
     font-size: 16px;
     font-weight: 400;
     line-height: 19.5px;
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
+    justify-content: space-evenly;
+    padding-left: 300px;
     color: white;
-    margin-right: 300px;
-    justify-content: first baseline;
-    
-
-
+    padding-top: 120px;
 
 }
 
@@ -380,6 +378,30 @@
     text-align: left;
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
+    color: white;
+    margin-top: 344px;
+
+}
+
+.end {
+    display: flex;
+}
+
+
+.good-info {
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18.29px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    justify-content: space-evenly;
+    margin-left: 106px;
+    
+    color: white;
+    display: flex;
+
+    
     
 
 }
